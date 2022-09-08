@@ -14,6 +14,7 @@ We use [The PhysioNet/Computing in Cardiology Challenge 2017](https://physionet.
 * Data Augmentation
 
 ## Technologies
+* Python
 * Tensorflow/keras
 * Pandas 
 * Numpy
@@ -21,3 +22,4 @@ We use [The PhysioNet/Computing in Cardiology Challenge 2017](https://physionet.
 * Sklearn
 
 
+P.s. In June 2020, this project was completed; recent commits have been devoted to organizing it.
