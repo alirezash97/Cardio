@@ -5,10 +5,6 @@
 
 ## General info
 This project aims to classify ECG signals into two categories, normal and atrial fibrillation. 
-In order to achieve this goal, two datasets are used,
-* MIT-BIH Arrhythmia Database
-  * Number of Samples: 109466
-  * Number of Categories: 5
-  * Sampling Frequency: 125Hz
-  * Classes: ['N': 0, 'S': 1, 'V': 2, 'F': 3, 'Q': 4]
+We use [The PhysioNet/Computing in Cardiology Challenge 2017](https://physionet.org/content/challenge-2017/1.0.0/) as a primary dataset for this task, but since it does not contain enough samples, we use the [MIT-BIH Arrhythmia Database](https://www.physionet.org/content/mitdb/1.0.0/) dataset as well.
+
 
