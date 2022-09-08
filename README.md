@@ -6,5 +6,8 @@
 ## General info
 The main goal of this project is to classify ecg signals into two categories, normal and atrial fibrillation.
 To reach this goal two datasets were used, first was 
-- MIT-BIH Arrhythmia dataset 
- - class
+* Item 1
+* Item 2
+* Item 3
+  * Sub Item A
+  * Sub Item B
